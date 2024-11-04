@@ -1,6 +1,6 @@
-# Swarm Resource Collection Simulation
+# Swarm Resource Collection Simulation - Testing out "Collaboration Factor"
 
-This is a Python-based simulation of a swarm of agents collecting and defending resources. The simulation showcases various swarm behavior algorithms, resource allocation, and agent coordination.
+This is a Python-based simulation of a swarm of agents collecting and defending resources. The simulation showcases various swarm behavior algorithms, resource allocation, and agent collaboration.
 
 ## Features
 - Agents with different roles (collectors and opposers)
